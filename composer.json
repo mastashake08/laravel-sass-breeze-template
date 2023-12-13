@@ -7,7 +7,10 @@
     "require": {
         "php": "^8.2",
         "guzzlehttp/guzzle": "^7.2",
+        "laravel/breeze": "dev-feat/slim-skeleton-11.x",
+        "laravel/cashier": "dev-feat/adds-l11-support",
         "laravel/framework": "^11.0",
+        "laravel/sanctum": "dev-master",
         "laravel/tinker": "dev-develop"
     },
     "require-dev": {
